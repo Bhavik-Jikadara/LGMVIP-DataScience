@@ -1,5 +1,5 @@
 # LGMVIP-DataScience
-LetsGrowMore Virtual Internship 2021
+LetsGrowMore Virtual Internship Program 2021
 
 Follow me on :----
 
